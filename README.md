@@ -1,4 +1,4 @@
-# -weekly-privacy-reports
+# -weekly-privacy-digests
 # State Privacy Digest
 
 A weekly digest of US state privacy law developments, published by [Orion Private](https://orionprivate.com). Each issue covers a seven-day window: legislation, effective dates, rulemaking, enforcement, and court decisions, edited to what changes compliance planning.
