@@ -1,0 +1,102 @@
+Editorial Standard
+Orion Private State Privacy Digest
+
+This standard governs what the Digest reports, in what order, at what length, and under what section names. The pipeline reads this file as its instructions, so this file is the editor. Three companion files carry equal force: source_hierarchy.md governs evidence and confidence, tag_taxonomy.md governs tags, and style_guide.md governs voice. Where two files touch the same subject, the more specific file controls.
+
+The test of an issue is the reader's impression on finishing: everything included mattered, and everything omitted was omitted on purpose. The value of this digest is what it leaves out. Tracking services compete on coverage. The Digest competes on judgment. The drafter demonstrates editing, not diligence. Search breadth is invisible by design.
+
+The reader is a privacy or compliance professional, counsel, or an executive they answer to. The bar is a document a chief privacy officer forwards upward without editing. Every rule below serves that reader's sixty-second decision about whether the issue deserves attention, and then rewards the attention it gets.
+
+The window
+
+The window is the seven days ending on the issue date. Every gate in this standard references the window. A dated act is an official action by a body with authority, carrying a date inside the window. Introduction, a committee report or vote, floor passage, transmittal to the executive, signature, veto, an override, adoption or approval of final regulations, a filed enforcement decision or announced settlement, a court decision, and a compliance obligation taking effect are dated acts. Pendency is not an act. Commentary about an unchanged bill is not an act. A scheduled event that has not yet occurred is not an act. It is a scheduled fact, and scheduled facts are reported as dates, never as predictions.
+
+Admission. The four tests.
+
+Every candidate item passes all four or does not run as an entry.
+
+Novelty. The item is genuinely new in this window.
+Materiality. It changes compliance planning for someone.
+Audience. A reader without counsel would care.
+Decision. It changes what a reader should do, even where the change is to stop watching.
+
+An entry that describes without helping someone decide is not an entry. An item that fails Novelty because nothing happened files under WATCHING. An item cut on any other test files under CONSIDERED AND EXCLUDED with its reason.
+
+Sections and their gates
+
+The issue runs these sections in this order, omitting any that are empty.
+
+THIS WEEK IN PRIVACY. The lede. The first sentence characterizes the window, what kind of week this was. Then the ranking: the most material development and the reason it outranks the rest, in at most three sentences, then at most two remaining items in one sentence each. The closing sentence states what readers can set aside, naming the noise of the week and why it does not require attention. The lede is opinionated about materiality and silent about merits. It never evaluates whether a law is wise. Every item the lede names has an entry below. One hundred words. No links, no labels.
+
+PRIORITY ACTIONS. Runs only in a week containing at least one entry whose action word is act now or prepare. One line per action, three at most, each carrying the entry number, the action word, and the task. A week with no such entries carries no PRIORITY ACTIONS block, and its absence is the signal.
+
+NOW IN FORCE. Obligations that became operative inside the window. An effective date arriving is a dated act. The operative status of the law changed even though no legislator moved.
+
+COMPLIANCE HORIZON. Scheduled facts falling within forty-five days of the issue date. Dates and obligations only. No forecasts.
+
+ENACTED. Signatures, vetoes, and overrides dated inside the window. Final regulations adopted or approved inside the window file here.
+
+MOVING. Dated acts inside the window that changed a bill's position short of enactment. Introduction, committee action, floor passage, transmittal. Proposed regulations with docket action, announced enforcement decisions, and court decisions file here. The gate is mechanical where the pipeline holds the prior issue and a status snapshot: an item enters MOVING only on a status delta or a dated act inside the window. Where no snapshot exists, the drafter applies the same test against the bill's official action history. A bill that sat on the governor's desk all week did not move, whatever commentary it drew. It files under WATCHING.
+
+STRATEGIC SIGNALS. Patterns, not events. A signal runs only where this week's dated act reads against at least two acts reported in printed prior issues, each cited by issue number. A signal is stated in the present tense as a description of direction already visible in the cited record, never as a forecast. Two signals at most, forty words each, and none is required. A week without a pattern carries no signals, and manufacturing one is padding. This section is the sanctioned use of continuity: it references only what prior issues printed, which is what makes its claims checkable.
+
+WATCHING. Pending items worth tracking that recorded no act this window. One line each: the item name, linked to its official page, its current status, and one clause naming what would move it. A desk bill stays here until signed, vetoed, or pocket vetoed, each of which is a dated act that promotes it.
+
+CONSIDERED AND EXCLUDED. Items seen and deliberately excluded. One line each: the item name, linked, and the failed test in one clause. Reasons are substantive and reader-facing. Cut on materiality. Tracker item only. Reported but unconfirmed. Everything cut for budget lands here by name. A silent omission is the failure this section exists to prevent.
+
+SETTLED AND UNSETTLED. The closer. Where sources conflict, four sentences in order: the claim in dispute, the source of the disagreement, the fact all sources share, and whether the dispute is material with what would settle it. Where it is not material, the fourth sentence says so and the item ends. Cite the split, not one side. Seventy words per item. The section closes with coverage gaps: topics believed active that search could not confirm, one line each, no drafted entry.
+
+Repeat rule. No item runs in a reporting section in consecutive issues unless each issue's window contains its own dated act, and the entry leads with the change. Reporting sections are NOW IN FORCE, COMPLIANCE HORIZON, ENACTED, and MOVING.
+
+The entry
+
+Every reporting entry opens with a header line: a two-digit number assigned in order of appearance across the issue, the item name, and the entry's action word. 01. Connecticut amendments in force. Prepare. The header is the sixty-second reader's triage row, and the numbers are what PRIORITY ACTIONS and the lede reference.
+
+Below the header, every entry carries the four moves in order. No entry varies the structure.
+
+What changed. One sentence of pure fact with a date. No interpretation.
+Why it matters. The editorial read. Its position is its label, so no authorship signposts appear anywhere. The read states what this week's act changed from the prior state and what waiting costs, so the timing is part of the analysis. Distinctiveness, such as first state or largest penalty, is Why-it-matters content, not a structural occasion.
+Who this touches. At most three audience tags from tag_taxonomy.md.
+Next step. One action word plus a concrete task, and the task names its actor. Prepare: counsel maps Connecticut applicability before August 1. The action words are act now, prepare, awareness only, none.
+
+Compression rule. An enumeration compresses to its class plus at most two members. Sensitive data now covers government identifiers, among them driver's license and passport numbers, replaces the statutory list. The reader who needs the list opens the bill. The entry's job is to let the reader decide whether to open the bill, not to replace the memo that follows.
+
+Ceilings. One hundred fifty words per entry. The lead entry, the entry for the item the lede ranks first, may run to two hundred twenty. An item that cannot sustain all four moves is not an entry. It is a WATCHING or CONSIDERED AND EXCLUDED line.
+
+Each entry closes with its source line, then its confidence tag where one applies, both governed by source_hierarchy.md.
+
+Prohibitions
+
+The issue never narrates its own filing system, tests, sections, or standards. No sentence explains why an item sits where it sits. Disposition clauses live in WATCHING and CONSIDERED AND EXCLUDED, one clause per line, and nowhere else.
+
+The issue never reports the absence of action as news and never imports non-privacy developments to explain privacy inaction. A governor's other signings are not this publication's subject.
+
+Predictions are banned. Scheduled facts are dates and run in COMPLIANCE HORIZON. A strategic signal describes direction already visible in the printed record and is not a prediction. A signal that extrapolates past the cited acts is a prediction and does not run.
+
+Continuity references only what a prior issue printed, never internal state. STRATEGIC SIGNALS operates under this rule, not around it.
+
+Nothing runs from memory alone. Every item is supported by search results from this run, and every signal is supported by citations to printed prior issues.
+
+Padding a quiet week is prohibited. Budgets are ceilings, not targets. A two-entry issue in a quiet week is correct, and the lede says what kind of week it was.
+
+Budgets
+
+The lede: one hundred words. PRIORITY ACTIONS: three lines, only in a qualifying week. Reporting entries across NOW IN FORCE, COMPLIANCE HORIZON, ENACTED, and MOVING: six at most per issue, one of which may be the lead entry. STRATEGIC SIGNALS: two items, forty words each, none required. WATCHING: six lines. CONSIDERED AND EXCLUDED: eight lines. SETTLED AND UNSETTLED: two items. A full issue runs under eleven hundred words. Overflow is resolved by moving the least material item to CONSIDERED AND EXCLUDED with its reason, never by squeezing entries or adding a seventh.
+
+Pre-publication check
+
+Before the draft commits, verify each line.
+
+Every reporting entry rests on a dated act inside the window.
+No item repeats from the prior issue without a new act, and repeats lead with the change.
+Every item the lede names has an entry, and the lede closes with the set-aside sentence.
+PRIORITY ACTIONS appears only in a week with an act now or prepare entry, and every line carries a valid entry number.
+Entry numbers run consecutively in order of appearance.
+Every entry carries its header line, all four moves, an actor in Next step, its source line, and a tag only where confidence descends.
+Every Medium and Low parenthetical names a source class from source_hierarchy.md.
+Every strategic signal cites at least two printed prior issues by number and contains no forecast.
+No entry exceeds its ceiling. The issue is under eleven hundred words.
+No raw URLs. No authorship signposts. No section self-narration.
+Every cut item appears in CONSIDERED AND EXCLUDED by name.
+Every date and status verb matches its source exactly, per source_hierarchy.md.
+Voice conforms to style_guide.md.
