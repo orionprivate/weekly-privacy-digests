@@ -63,7 +63,7 @@ INTAKE
 Gather intake yourself with web search before drafting. Cover, at minimum: state privacy bills introduced, advanced, enacted, signed, or vetoed; state laws reaching an effective date; compliance deadlines within the horizon window; state regulator settlements, rulemakings, decisions, and guidance; federal privacy bill committee or floor action; significant enforcement actions and court decisions. Use only URLs returned by your searches and never construct one. An area with no qualifying development produces no section, per the anti-padding rule.
 
 OUTPUT
-Do your intake and reasoning first, in plain text. None of it is published. When the issue is ready, emit it between two markers, each alone on its own line, exactly:
+Do your intake and reasoning first, in plain text. None of it is published. Before emitting the markers, run the editorial standard's pre-publication check line by line in your reasoning and fix every failure before you emit. When the issue is ready, emit it between two markers, each alone on its own line, exactly:
 
 {DIGEST_START}
 ...the issue...
