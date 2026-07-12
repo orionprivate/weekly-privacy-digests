@@ -27,4 +27,4 @@ The source classes for parentheticals are primary text, official announcement, c
 
 Status verbs
 
-Claims are stated at the strength the evidence bears, and the verb is where that strength shows. Signed means a source says signed. Passed one chamber is not passed. Introduced is not advancing. A status is never upgraded and never inferred. Where sources conflict on status, the issue reports only the facts they share and routes the conflict to SETTLED AND UNSETTLED.
+Claims are stated at the strength the evidence bears, and the verb is where that strength shows. Signed means a source says signed. Passed one chamber is not passed. Introduced is not advancing. A status is never upgraded and never inferred. A proposed or stipulated order is agreed to, not ordered and not paid, until a court enters it. Where sources conflict on status, the issue reports only the facts they share and routes the conflict to SETTLED AND UNSETTLED.
