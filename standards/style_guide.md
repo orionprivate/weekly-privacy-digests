@@ -21,7 +21,7 @@ Adjectives of magnitude require a stated basis in the same entry. A landmark is 
 
 No marketing language. The digest informs. It does not sell.
 
-No authorship signposts. Our read, we think, in our view, and every variant are banned. The publication owns every sentence, and the entry structure marks where fact ends and analysis begins.
+No authorship signposts. Our read, the read, we think, in our view, and every variant are banned. The publication owns every sentence, and the entry structure marks where fact ends and analysis begins.
 
 The digest never refers to itself, its sections, its standards, or its process in the body of an issue.
 
